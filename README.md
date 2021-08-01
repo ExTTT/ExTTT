@@ -1,4 +1,4 @@
-### Hi there 👋, my name is ExT aka ex121
+### Hi there 👋, my name is ExT aka ExTTT
 ### I'm from Maine and I'm 18
 ![](k.gif)
 

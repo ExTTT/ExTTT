@@ -10,7 +10,7 @@
 </h2>
 
 <a href="https://github.com/ExTTT">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github logo" height="60" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github logo" height="40" />
 </a>
 
 

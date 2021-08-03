@@ -1,4 +1,3 @@
-<body align="center">
 <h1 align="center">
   Hi there 👋, my name is ExT, I'm from Maine and I'm 18 years old.
 </h1>
@@ -18,4 +17,3 @@
 
 ![Profile views](https://gpvc.arturio.dev/ExTTT)  
 
-</body>

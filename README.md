@@ -18,7 +18,9 @@
 <a href="https://discord.gg/ZZEh3DCXTP"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" height='40'> </a>
 </div>
 
-
+<div align="center">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ExTTT"> <img src="https://github.com/anuraghazra/github-readme-stats" height='40'> </a>
+</div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExTTT)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ExTTT&show_icons=true)  

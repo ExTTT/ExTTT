@@ -27,5 +27,7 @@
 <img height=21 src="https://komarev.com/ghpvc/?username=ExTTT">
 </p>
 
-![pepe](pepe.gif)
+<p align="center">  
+<img height=150 src="pepe.gif">
+</p>
 

@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-<img height=21 src="https://komarev.com/ghpvc/?username=ExTTT&style=flat-square">
+<img height=21 src="https://komarev.com/ghpvc/?username=ExTTT">
 </p>
 
 

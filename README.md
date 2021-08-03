@@ -1,5 +1,5 @@
-### <p align="center">
-    Hi there 👋, my name is ExT, I'm from Maine and I'm 18.
+<p align="center">
+    <h1>Hi there 👋, my name is ExT, I'm from Maine and I'm 18.</h1>
 </p>
 ![](lol.gif)
 

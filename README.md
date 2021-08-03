@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there 👋, my name is ExT, I'm from Maine and I'm 18 years old.
+  Hi there, my name is ExT, I'm from Maine and I'm 18 years old.
 </h1>
 
 ![](lol.gif)

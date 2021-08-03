@@ -11,7 +11,11 @@
 
 <div height='45' align="center">
 <a href="https://github.com/ExTTT"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height='40'> </a>
-<a href="https://github.com/ExTTT"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height='40'> </a>
+<a href="https://www.instagram.com/extchasin/"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height='40'> </a>
+<a href="https://twitter.com/extsus"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height='40'> </a>
+<a href="https://www.youtube.com/channel/ext121"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" height='40'> </a>
+<a href="ext121.ml"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" height='40'> </a>
+<a href="https://discord.gg/ZZEh3DCXTP"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" height='40'> </a>
 </div>
 
 

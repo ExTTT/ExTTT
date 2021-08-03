@@ -1,6 +1,6 @@
-### Hi there 👋, my name is ExT aka ExTTT
+### Hi there 👋, my name is ExT
 ### I'm from Maine and I'm 18
-![](k.gif)
+![](oklaika.gif)
 
 I am currently learning py, html, css at the moment. I'm taking it slow because I'm very lazy but I want to accomplish a lot by December 2021.
 

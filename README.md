@@ -1,7 +1,6 @@
 ### Hi there 👋, my name is ExT
 ### I'm from Maine and I'm 18
-![](oklaika.gif)
-
+![](https://cdn.discordapp.com/attachments/866933310592122910/871907118431739924/laika.gif)
 Skills: HTML / CSS / PYTHON /
 
 - 🔭 I’m currently working on https://markslove.ml/

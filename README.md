@@ -1,5 +1,5 @@
 <p align="center">
-  te
+  # Hi there 👋, my name is ExT, I'm from Maine and I'm 18 years old.
 </p>
 
 ![](lol.gif)

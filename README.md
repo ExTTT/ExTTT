@@ -11,6 +11,7 @@
 
 <div height='45' align="center">
 <a href="https://github.com/ExTTT"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height='40'> </a>
+<a href="https://github.com/ExTTT"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height='40'> </a>
 </div>
 
 

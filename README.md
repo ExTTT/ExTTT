@@ -23,11 +23,11 @@
 <img height=150 src="https://github-readme-stats.vercel.app/api?username=ExTTT&count_private=true&show_icons=true&theme=dark">
 </p>
 
-<p height='45' align="center">
+<p align="center">
 <img height=21 src="https://komarev.com/ghpvc/?username=ExTTT">
 </p>
 
-<h1 align="center">
+<h1  height='45' align="center">
 __________████████_____██████
 _________█░░░░░░░░██_██░░░░░░█
 ________█░░░░░░░░░░░█░░░░░░░░░█

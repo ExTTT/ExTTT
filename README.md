@@ -10,7 +10,7 @@
 </h2>
 
 <div height='40' align="center">
-<a href="my/link"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"> </a>
+<a href="my/link"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height='40'> </a>
 </div>
 
 

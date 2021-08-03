@@ -19,8 +19,8 @@
 </div>
 
 <p align="center">  
-<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExTTT&layout=compact&theme=tokyonight&hide=html">
-<img height=150 src="https://github-readme-stats.vercel.app/api?username=ExTTT&count_private=true&show_icons=true&theme=tokyonight">
+<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExTTT&layout=compact&theme=jolly">
+<img height=150 src="https://github-readme-stats.vercel.app/api?username=ExTTT&count_private=true&show_icons=true&theme=jolly">
 </p>
 
 ![Profile views](https://gpvc.arturio.dev/ExTTT)  

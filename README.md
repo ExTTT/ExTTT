@@ -18,9 +18,12 @@
 <a href="https://discord.gg/ZZEh3DCXTP"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" height='40'> </a>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExTTT)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  
+<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExTTT&layout=compact&theme=tokyonight&hide=html">
+<img height=150 src="https://github-readme-stats.vercel.app/api?username=ExTTT&count_private=true&show_icons=true&theme=tokyonight">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ExTTT&show_icons=true)  
+</p>
 
 ![Profile views](https://gpvc.arturio.dev/ExTTT)  
 

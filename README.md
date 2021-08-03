@@ -14,5 +14,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExTTT)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ExTTT&show_icons=true)  
-
+<p align="center">
 ![Profile views](https://gpvc.arturio.dev/ExTTT)  
+</p>

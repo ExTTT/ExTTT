@@ -1,4 +1,4 @@
-<p align="center" style="font-size:40px;">
+<p align="center">
   Hi there 👋, my name is ExT, I'm from Maine and I'm 18 years old.
 </p>
 

@@ -1,7 +1,6 @@
 ### Hi there 👋, my name is ExT
 ### I'm from Maine and I'm 18
 ![](lol.gif)
-Skills: HTML / CSS / PYTHON /
 
 - 🔭 I’m currently working on https://markslove.ml/
 - 🌱 I’m currently learning HTML / CSS / PYTHON / 

@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-<img height=25 src="https://gpvc.arturio.dev/ExTTT&layout=compact&theme=algoliaa">
+<img height=25 src="https://gpvc.arturio.dev/ExTTT">
 </p>
 
 

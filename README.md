@@ -23,7 +23,7 @@
 <img height=150 src="https://github-readme-stats.vercel.app/api?username=ExTTT&count_private=true&show_icons=true&theme=algolia">
 </p>
 <p align="center">
-<img height=30 src="https://gpvc.arturio.dev/ExTTT">
+<img height=10 src="https://gpvc.arturio.dev/ExTTT">
 </p>
 
 

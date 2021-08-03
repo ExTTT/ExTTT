@@ -9,7 +9,7 @@
  How to reach me: https://ext121.ml/
 </h2>
 
-<div style="height='40' text-align:center;">
+<div height='40' align="center">
 <a href="my/link"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"> </a>
 </div>
 

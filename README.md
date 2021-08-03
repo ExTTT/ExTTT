@@ -1,7 +1,7 @@
 <p align="center">
   te
 </p>
-<h1>Hi there 👋, my name is ExT, I'm from Maine and I'm 18.</h1>
+
 ![](lol.gif)
 
 - 🔭 I’m currently working on https://markslove.ml/

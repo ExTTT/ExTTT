@@ -29,6 +29,6 @@
 
 <p align="center">  
 <img height=150 src="pepe.gif">
-<img height=140 src="go.gif">
+<img height=130 src="go.gif">
 </p>
 

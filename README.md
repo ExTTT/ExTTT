@@ -2,8 +2,6 @@
 ### I'm from Maine and I'm 18
 ![](oklaika.gif)
 
-I am currently learning py, html, css at the moment. I'm taking it slow because I'm very lazy but I want to accomplish a lot by December 2021.
-
 Skills: HTML / CSS / PYTHON /
 
 - 🔭 I’m currently working on https://markslove.ml/

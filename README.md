@@ -4,7 +4,7 @@
 
 ![](lol.gif)
 <h2 align="center">
- I’m currently working on https://markslove.ml/ <br>
+ I’m currently working on projects using C# <br>
  I’m currently learning HTML / CSS / PYTHON / <br>
  How to reach me: https://ext121.ml/
 </h2>

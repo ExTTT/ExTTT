@@ -5,7 +5,7 @@
 ![](lol.gif)
 <h2 align="center">
  I’m currently working on projects using C# <br>
- I’m currently learning PYTHON / C# /<br>
+ I’m currently learning / PY / C# /<br>
  How to reach me: https://ext121.ml/
 </h2>
 

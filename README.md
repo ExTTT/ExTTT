@@ -23,9 +23,8 @@
  </h2>
 </div>
 
-<h2 align="center">
-<h2> Stats: <br>
-  </h2>
+
+<center> Stats: </center> <br>
 <p align="center">  
 <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExTTT&layout=compact&theme=dark">
 <img height=150 src="https://github-readme-stats.vercel.app/api?username=ExTTT&count_private=true&show_icons=true&theme=dark">

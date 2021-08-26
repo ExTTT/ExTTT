@@ -20,10 +20,11 @@
 <a href="https://www.youtube.com/channel/ext121"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" height='50'> </a>
 <a href="https://ext121.ml/"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" height='50'> </a>
 <a href="https://discord.gg/ZZEh3DCXTP"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" height='50'> </a>
-  </h2>
+ </h2>
 </div>
 
 <p align="center">  
+<h2> Stats: <br>
 <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExTTT&layout=compact&theme=dark">
 <img height=150 src="https://github-readme-stats.vercel.app/api?username=ExTTT&count_private=true&show_icons=true&theme=dark">
 </p>
@@ -31,7 +32,7 @@
 <p align="center">
 <img height=21 src="https://komarev.com/ghpvc/?username=ExTTT">
 </p>
-
+</h2>
 <p align="center">  
 <img height=150 src="pepe.gif">
 </p>

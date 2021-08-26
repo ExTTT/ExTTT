@@ -4,7 +4,7 @@
 
 ![](lol.gif)
 <h2 align="center">
- I’m currently learning:<br>
+ Languages I Know/Learning: <br>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70">
  <img src="https://cdn.discordapp.com/attachments/858836327751876608/880286437667381268/html5-original-wordmark.png" alt="html" width="70">
  <img src="https://cdn.discordapp.com/attachments/858836327751876608/880286667292966932/css3-original-wordmark.png" alt="css" width="70">

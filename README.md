@@ -4,7 +4,6 @@
 
 ![](lol.gif)
 <h2 align="center">
- I’m currently working on projects using C# <br>
  I’m currently learning:<br>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70">
  <img src="https://cdn.discordapp.com/attachments/858836327751876608/880286437667381268/html5-original-wordmark.png" alt="html" width="70">

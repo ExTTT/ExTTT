@@ -13,7 +13,7 @@
 </h2>
 
 <div height='45' align="center">
-Socials: <br>
+<h2>Socials: </h2> <br>
 <a href="https://github.com/ExTTT"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height='50'> </a>
 <a href="https://www.instagram.com/extchasin/"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height='50'> </a>
 <a href="https://twitter.com/extsus"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height='50'> </a>
